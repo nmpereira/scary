@@ -5610,7 +5610,7 @@ $(document).ready(function () {
       screamsound.play();
       setTimeout(function () {
         palyaReset();
-      }, 3000);
+      }, 10000);
     }
   });
 
